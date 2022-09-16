@@ -1,6 +1,6 @@
 # Music Application
 
-<p>The primary purpose of the music streaming application is <b>to play music available in the databases of the service, compose custom playlists and suggest similar songs.</b> The main elements of music streaming apps are: Discovery.</p>
+<p>The primary purpose of the music streaming application is <b>to play music available in the databases of the service, compose custom playlists and suggest similar songs.</b></p>
 
 <h3>🚀 Language & Tools</h3>
 <ul>
